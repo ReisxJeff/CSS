@@ -8,7 +8,20 @@ header li{
     display: inline;
 }
 
-.container {
+.container{
     width: 1366px;
     margin: 0 auto;
+}
+
+.articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.articles article img{
+    height: 180px;
+}
+
+.articles article{
+    width: 30%;
 }
