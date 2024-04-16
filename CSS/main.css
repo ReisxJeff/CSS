@@ -100,3 +100,19 @@ section h2{
 #economy .articles article a{
     background-color: #ff9f1a;
 }
+
+#policy {
+    background-color: rgb(170, 252, 255);
+}
+
+#policy .articles article a{
+    background-color: rgb(6, 9, 151);
+}
+
+#entertainment {
+    background-color: #f5c4ff;
+}
+
+#entertainment .articles article a{
+    background-color: #c501f7;
+}
